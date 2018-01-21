@@ -239,35 +239,6 @@
 
 int main(int argc, char *argv[])
 {
-    struct Node
-    {
-        int i;
-        Node* next;
-    };
-    
-    class LinkedList
-    {
-    private:
-        Node* head;
-        Node* tail;
         
-    public:
-        LinkedList()
-        {
-            head = nullptr;
-            tail = nullptr;
-        }
-
-        addnode(int val)
-        {
-            
-        }
-    };
-
-    LinkedList list;
-
-    
-    
-    
     return 0;
 }
